@@ -1,0 +1,31 @@
+[
+
+  {
+    "nomeProduto": "Zeppelin Yoga Pant",
+    "tamanho": "34",
+    "cor": "Blue",
+    "quantidade": 2
+  },
+
+  {
+    "nomeProduto": "Helena Hooded Fleece",
+    "tamanho": "S",
+    "cor": "Gray",
+    "quantidade": 3
+  } ,
+
+  {
+    "nomeProduto": "Arcadio Gym Short",
+    "tamanho": "36",
+    "cor": "Black",
+    "quantidade": 1
+  } ,
+
+  {
+    "nomeProduto": "Strike Endurance Tee",
+    "tamanho": "M",
+    "cor": "Blue",
+    "quantidade": 4
+  }  
+
+]
